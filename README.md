@@ -1,7 +1,7 @@
 # state-manager
 Imitate the Redux reducer and dispatch function. You can send action and payload to update state.
 
-# How about this
+# About this repository
 I really like the Redux design pattern. So I'm trying to imitate that and write something.
 
 There are some ideas of `why Should I Use Redux` in the Redux document.
